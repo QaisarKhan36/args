@@ -1,0 +1,20 @@
+def funargs(normal,*args,**kwargsboy):
+    print(type(args))
+    print(args[1])
+    for i in kwargsboy.items():
+        print(i)
+def gadwad(ulta):
+    return list[1],list[0],list[2]
+list = ["rohan","qaisar","bilal","noman"]
+new = {"name":"qaisar","age":"18","height":"5.7ft"}
+# normal = "hello, what is your name"
+# mood = gadwad(list)
+# funargs(normal,list,new)
+for i in range(5):
+    for n in range(i+1):
+      print(new.values(), end = " ")
+      print()
+
+
+
+
